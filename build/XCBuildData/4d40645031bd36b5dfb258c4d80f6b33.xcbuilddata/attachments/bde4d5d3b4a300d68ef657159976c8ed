@@ -1,0 +1,5 @@
+ extern const unsigned char SummerSliderVersionString[];
+ extern const double SummerSliderVersionNumber;
+
+ const unsigned char SummerSliderVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:SummerSlider  PROJECT:Pods-1" "\n";
+ const double SummerSliderVersionNumber __attribute__ ((used)) = (double)1.;

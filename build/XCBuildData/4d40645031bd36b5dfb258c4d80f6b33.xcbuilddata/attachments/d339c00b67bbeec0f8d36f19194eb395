@@ -1,0 +1,5 @@
+ extern const unsigned char IBAnimatableVersionString[];
+ extern const double IBAnimatableVersionNumber;
+
+ const unsigned char IBAnimatableVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:IBAnimatable  PROJECT:Pods-1" "\n";
+ const double IBAnimatableVersionNumber __attribute__ ((used)) = (double)1.;

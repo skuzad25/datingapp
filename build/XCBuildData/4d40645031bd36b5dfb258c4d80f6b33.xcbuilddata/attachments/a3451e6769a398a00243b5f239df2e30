@@ -1,0 +1,10 @@
+framework module IBAnimatable {
+  umbrella header "IBAnimatable-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module IBAnimatable.__Swift {
+  exclude header "IBAnimatable-Swift.h"
+}

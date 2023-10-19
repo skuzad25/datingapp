@@ -1,0 +1,60 @@
+Target dependency graph (24 targets)
+Target 'Pods-Dating' in project 'Pods'
+➜ Explicit dependency on target 'AWSCore' in project 'Pods'
+➜ Explicit dependency on target 'AWSS3' in project 'Pods'
+➜ Explicit dependency on target 'Alamofire' in project 'Pods'
+➜ Explicit dependency on target 'CropViewController' in project 'Pods'
+➜ Explicit dependency on target 'CryptoSwift' in project 'Pods'
+➜ Explicit dependency on target 'DKCamera' in project 'Pods'
+➜ Explicit dependency on target 'DKImagePickerController' in project 'Pods'
+➜ Explicit dependency on target 'DKPhotoGallery' in project 'Pods'
+➜ Explicit dependency on target 'DropDown' in project 'Pods'
+➜ Explicit dependency on target 'FTIndicator' in project 'Pods'
+➜ Explicit dependency on target 'GoogleMaps' in project 'Pods'
+➜ Explicit dependency on target 'GooglePlaces' in project 'Pods'
+➜ Explicit dependency on target 'IBAnimatable' in project 'Pods'
+➜ Explicit dependency on target 'IQKeyboardManager' in project 'Pods'
+➜ Explicit dependency on target 'Koloda' in project 'Pods'
+➜ Explicit dependency on target 'RangeSeekSlider' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SummerSlider' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyGif' in project 'Pods'
+➜ Explicit dependency on target 'pop' in project 'Pods'
+Target 'SummerSlider' in project 'Pods' (no dependencies)
+Target 'RangeSeekSlider' in project 'Pods' (no dependencies)
+Target 'Koloda' in project 'Pods'
+➜ Explicit dependency on target 'pop' in project 'Pods'
+Target 'pop' in project 'Pods' (no dependencies)
+Target 'IQKeyboardManager' in project 'Pods' (no dependencies)
+Target 'IBAnimatable' in project 'Pods' (no dependencies)
+Target 'GooglePlaces' in project 'Pods' (no dependencies)
+Target 'GoogleMaps' in project 'Pods' (no dependencies)
+Target 'FTIndicator' in project 'Pods' (no dependencies)
+Target 'DropDown' in project 'Pods' (no dependencies)
+Target 'DKImagePickerController' in project 'Pods'
+➜ Explicit dependency on target 'CropViewController' in project 'Pods'
+➜ Explicit dependency on target 'DKCamera' in project 'Pods'
+➜ Explicit dependency on target 'DKImagePickerController-DKImagePickerController' in project 'Pods'
+➜ Explicit dependency on target 'DKPhotoGallery' in project 'Pods'
+Target 'DKImagePickerController-DKImagePickerController' in project 'Pods'
+➜ Implicit dependency on target 'CropViewController' in project 'Pods' via options '-framework CropViewController' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'DKCamera' in project 'Pods' via options '-framework DKCamera' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'DKPhotoGallery' in project 'Pods' via options '-framework DKPhotoGallery' in build setting 'OTHER_LDFLAGS'
+Target 'DKPhotoGallery' in project 'Pods'
+➜ Explicit dependency on target 'DKPhotoGallery-DKPhotoGallery' in project 'Pods'
+➜ Explicit dependency on target 'SDWebImage' in project 'Pods'
+➜ Explicit dependency on target 'SwiftyGif' in project 'Pods'
+Target 'DKPhotoGallery-DKPhotoGallery' in project 'Pods'
+➜ Implicit dependency on target 'SDWebImage' in project 'Pods' via options '-framework SDWebImage' in build setting 'OTHER_LDFLAGS'
+➜ Implicit dependency on target 'SwiftyGif' in project 'Pods' via options '-framework SwiftyGif' in build setting 'OTHER_LDFLAGS'
+Target 'SwiftyGif' in project 'Pods' (no dependencies)
+Target 'SDWebImage' in project 'Pods' (no dependencies)
+Target 'DKCamera' in project 'Pods' (no dependencies)
+Target 'CryptoSwift' in project 'Pods' (no dependencies)
+Target 'CropViewController' in project 'Pods'
+➜ Explicit dependency on target 'CropViewController-TOCropViewControllerBundle' in project 'Pods'
+Target 'CropViewController-TOCropViewControllerBundle' in project 'Pods' (no dependencies)
+Target 'Alamofire' in project 'Pods' (no dependencies)
+Target 'AWSS3' in project 'Pods'
+➜ Explicit dependency on target 'AWSCore' in project 'Pods'
+Target 'AWSCore' in project 'Pods' (no dependencies)

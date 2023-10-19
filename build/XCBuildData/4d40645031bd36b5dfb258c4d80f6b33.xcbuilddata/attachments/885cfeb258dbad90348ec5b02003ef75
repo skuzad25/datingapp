@@ -1,0 +1,88 @@
+{
+  "" : {
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider-master.dia",
+    "emit-module-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider-master-emit-module.dia",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider-master.swiftdeps"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/Constants.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Constants~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/HorizontalSlider.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/HorizontalSlider~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/Slider.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/Slider~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/SliderDrawingProtocol.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderDrawingProtocol~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/SliderFactory.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SliderFactory~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/SummerSlider.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSlider~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/SummerSliderTypes.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/SummerSliderTypes~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/SummerSlider/SummerSlider/VerticalSlider.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/SummerSlider.build/Objects-normal/arm64/VerticalSlider~partial.swiftmodule"
+  }
+}

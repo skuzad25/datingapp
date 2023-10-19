@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/skuzad25/Downloads/datingapp/build/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CryptoSwift.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/skuzad25/Downloads/datingapp/build/Debug-iphonesimulator/CryptoSwift/CryptoSwift.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "CryptoSwift-Swift.h",
+      'external-contents': "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CryptoSwift.build/unextended-interface-header.h",
+    }]
+    }]
+}

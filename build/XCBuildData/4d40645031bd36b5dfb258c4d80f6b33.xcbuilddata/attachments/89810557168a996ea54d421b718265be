@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/Koloda-master.dia",
+    "emit-module-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/Koloda-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/Koloda-master-emit-module.dia",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/Koloda-master.swiftdeps"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/DraggableCardView/DraggableCardView.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/DraggableCardView~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/KolodaAnimationSemaphore.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaAnimationSemaphore~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/KolodaCardStorage.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaCardStorage~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/KolodaView.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaView~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/KolodaViewAnimatior.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/KolodaViewAnimatior~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/OverlayView/OverlayView.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/OverlayView~partial.swiftmodule"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/Koloda/Pod/Classes/KolodaView/SwipeResultDirection.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/Koloda.build/Objects-normal/arm64/SwipeResultDirection~partial.swiftmodule"
+  }
+}

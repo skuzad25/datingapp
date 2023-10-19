@@ -1,0 +1,11 @@
+framework module SummerSlider {
+  umbrella header "SummerSlider-umbrella.h"
+
+  export *
+  module * { export * }
+}
+
+module SummerSlider.Swift {
+  header "SummerSlider-Swift.h"
+  requires objc
+}

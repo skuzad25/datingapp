@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="21507" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_12" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="21505"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="AddProductPhotoCVC2" id="gTV-IL-0wX" customClass="AddProductPhotoCVC2" customModule="Dating" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="123" height="117"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="123" height="117"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="afX-wF-C9c" customClass="AnimatableView" customModule="IBAnimatable">
+                        <rect key="frame" x="10" y="10" width="103" height="97"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFill" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="imgDemo" translatesAutoresizingMaskIntoConstraints="NO" id="ELv-6c-QEy" customClass="AnimatableImageView" customModule="IBAnimatable">
+                                <rect key="frame" x="0.0" y="0.0" width="103" height="97"/>
+                                <userDefinedRuntimeAttributes>
+                                    <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                        <real key="value" value="10"/>
+                                    </userDefinedRuntimeAttribute>
+                                </userDefinedRuntimeAttributes>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="isk-dN-ZXc">
+                                <rect key="frame" x="88" y="-10" width="25" height="25"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="25" id="tfF-Mk-xWz"/>
+                                    <constraint firstAttribute="width" constant="25" id="z1V-hS-SOC"/>
+                                </constraints>
+                                <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                                <state key="normal" image="remove_btn"/>
+                            </button>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                        <constraints>
+                            <constraint firstItem="isk-dN-ZXc" firstAttribute="top" secondItem="afX-wF-C9c" secondAttribute="top" constant="-10" id="41w-kD-mGq"/>
+                            <constraint firstAttribute="bottom" secondItem="ELv-6c-QEy" secondAttribute="bottom" id="7Z9-rh-xJM"/>
+                            <constraint firstItem="ELv-6c-QEy" firstAttribute="top" secondItem="afX-wF-C9c" secondAttribute="top" id="F5u-TL-BYu"/>
+                            <constraint firstAttribute="trailing" secondItem="ELv-6c-QEy" secondAttribute="trailing" id="IXn-BY-fpr"/>
+                            <constraint firstItem="ELv-6c-QEy" firstAttribute="leading" secondItem="afX-wF-C9c" secondAttribute="leading" id="RRd-vF-AO0"/>
+                            <constraint firstAttribute="trailing" secondItem="isk-dN-ZXc" secondAttribute="trailing" constant="-10" id="nTB-ND-vLz"/>
+                        </constraints>
+                        <userDefinedRuntimeAttributes>
+                            <userDefinedRuntimeAttribute type="number" keyPath="cornerRadius">
+                                <real key="value" value="10"/>
+                            </userDefinedRuntimeAttribute>
+                        </userDefinedRuntimeAttributes>
+                    </view>
+                </subviews>
+            </view>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <constraints>
+                <constraint firstAttribute="trailing" secondItem="afX-wF-C9c" secondAttribute="trailing" constant="10" id="64e-lV-o9l"/>
+                <constraint firstItem="afX-wF-C9c" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="10" id="WJq-2d-2Va"/>
+                <constraint firstAttribute="bottom" secondItem="afX-wF-C9c" secondAttribute="bottom" constant="10" id="iPq-Eb-8Dz"/>
+                <constraint firstItem="afX-wF-C9c" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="oUa-nC-H7U"/>
+            </constraints>
+            <size key="customSize" width="123" height="117"/>
+            <connections>
+                <outlet property="btnRemoveImg" destination="isk-dN-ZXc" id="JI4-Ml-9zp"/>
+                <outlet property="imgAddProduct" destination="ELv-6c-QEy" id="GJE-H6-fIj"/>
+            </connections>
+            <point key="canvasLocation" x="86.25954198473282" y="-8.8028169014084519"/>
+        </collectionViewCell>
+    </objects>
+    <designables>
+        <designable name="ELv-6c-QEy">
+            <size key="intrinsicContentSize" width="113" height="167"/>
+        </designable>
+    </designables>
+    <resources>
+        <image name="imgDemo" width="113" height="167"/>
+        <image name="remove_btn" width="19" height="19"/>
+    </resources>
+</document>

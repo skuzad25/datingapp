@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController-master.dia",
+    "emit-module-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController-master-emit-module.dia",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController-master.swiftdeps"
+  },
+  "/Users/skuzad25/Downloads/datingapp/Pods/CropViewController/Swift/CropViewController/CropViewController.swift" : {
+    "const-values" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.swiftconstvalues",
+    "dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.d",
+    "diagnostics" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.dia",
+    "index-unit-output-path" : "/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.o",
+    "llvm-bc" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.bc",
+    "object" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.o",
+    "swift-dependencies" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController.swiftdeps",
+    "swiftmodule" : "/Users/skuzad25/Downloads/datingapp/build/Pods.build/Debug-iphonesimulator/CropViewController.build/Objects-normal/arm64/CropViewController~partial.swiftmodule"
+  }
+}

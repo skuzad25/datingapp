@@ -1,0 +1,5 @@
+ extern const unsigned char FTIndicatorVersionString[];
+ extern const double FTIndicatorVersionNumber;
+
+ const unsigned char FTIndicatorVersionString[] __attribute__ ((used)) = "@(#)PROGRAM:FTIndicator  PROJECT:Pods-1" "\n";
+ const double FTIndicatorVersionNumber __attribute__ ((used)) = (double)1.;

@@ -1,0 +1,133 @@
+{
+  "buildCommand" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e984bc8f619b923f09792a0a9d49388d61c"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9873b4913877bdf764bc3f02b30551104e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ba3679b4c4428e6a6d83c5308d3af99b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9812277fd9a351c841c3696036f1a4462d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98e57c24c9bf7d47117e80f38445e5bc3b"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981c0768badcb962e4e9f1efa0f12f70a9"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98eeeaa900748767c8c1de8fb6cc2467a5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e985fd5cdb9993b1816141f0c012ffa62bd"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9898fccba7a2febdedb43dddbf2e949fc3"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e989d0a1858a86fd6e6731ed20f88a1e515"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d3f65728b12dd217475d1283ee417937"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98ec1e5d51cce0dda6dc3122e5391d9b39"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98b3d8cfb65bc3b6882e436c9674f5f213"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9818352c54edac2258b91768852065ce5e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9869e3148f89b4a625aeae7fd3d1e957b6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c5f04884098fcb553c13bfb65a5ff9a5"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98810951796d112b754e8d560b51957d79"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98d4563223b1614bb41c28f6b1e9a7ef27"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c6de3c4d2f6a9bdf4a30edd40d1ac6a2"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e981bfd27bdb7c79e5ee2f18287640c01e6"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98c46180aea4e87057640961e6db37df0d"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98a1ae34e8a560b15e6848619b86817836"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e9872eabefc63c14dfe52fb0c95ad90294e"
+    },
+    {
+      "guid" : "bfdfe7dc352907fc980b868725387e98526f5bf0859ba0fc9d0285405b50bde8"
+    }
+  ],
+  "containerPath" : "/Users/skuzad25/Downloads/datingapp/Pods/Pods.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator17.0",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/skuzad25/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/skuzad25/Library/Developer/Xcode/DerivedData/Pods-haxadflubfttohgbrpgkcsaolbtm/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/skuzad25/Library/Developer/Xcode/DerivedData/Pods-haxadflubfttohgbrpgkcsaolbtm/Index.noindex/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone16,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "17.0",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone16,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "TARGET_DEVICE_IDENTIFIER" : "26047210-0E7A-4813-B2CF-F886D3071D1C",
+          "TARGET_DEVICE_MODEL" : "iPhone16,1",
+          "TARGET_DEVICE_OS_VERSION" : "17.0",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
